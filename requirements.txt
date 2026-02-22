@@ -1,0 +1,10 @@
+﻿numpy==2.2.*
+pandas==2.2.*
+
+psycopg[binary]==3.2.*
+
+# Dashboard
+streamlit==1.40.*
+plotly==5.24.*
+pyarrow==19.0.*
+matplotlib==3.9.*
